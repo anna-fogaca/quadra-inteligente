@@ -1,54 +1,54 @@
 body {
-     background-color: black;
-}
-
-h1 {
-    text-align: center;
-    font-size: 50px;
-    font-family: Arial, Helvetica, sans-serif; 
-    padding: 43px;
-    background-color: rgba(30, 63, 210, 0.582);
-    color: white;
-    margin: -10px;
-    margin-bottom: 5px;
+    background-color:gray;
 }
 
 p {
-   text-align: center;
-   color: black;
-   font-size: 28px;
- }
-
-#informacoes {
-    background-color: white;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 28px;
 }
 
+#Faixada {
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif; 
+    padding: 20px;
+    background-color:black;
+    color: rgb(255, 255, 255);
+    margin: -10px;
+    margin-bottom: 5px;
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="index.css" media="screen" />
-    <title>Quadra Inteligente</title>
-</head>
-<body>
-  <div id="informacoes">
-    <h1>Quadra Inteligente Prota</h1>
-      <br>
-      <p>  Alunos do colégio Protasio de Carvalho cursantes do Curso Analíse Desenvolvimento de Sistemas. Se reuniram para implementar ideias inovadoras em áreas do 
-  </p>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-</div>
-  <br>
-    <p>Se quiser algo mais serio a minha pessoa segue o link para hablar com joy ;D<p>
-      <br>
-    <button><a href="https://mail.google.com/">Contacto Rafaxenho</a></button>
-</body>
-</html>
+}
+
+#conteudo{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    color:rgb(0, 0, 0);
+    font-size: 40px;
+}
+
+p{
+    font-size: 30;
+}
+
+footer{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif; 
+    padding: 40px;
+    background-color:rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -10px;
+}
+
+a{
+    color:white;
+    text-decoration: none; 
+}
+
